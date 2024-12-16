@@ -1,0 +1,40 @@
+.elementor-30 .elementor-element.elementor-element-f21ebb5 > .elementor-container{max-width:1500px;min-height:620px;}.elementor-30 .elementor-element.elementor-element-f21ebb5:not(.elementor-motion-effects-element-type-background), .elementor-30 .elementor-element.elementor-element-f21ebb5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lakesunited.com.au/wp-content/uploads/2022/03/banner-1.jpg");}.elementor-30 .elementor-element.elementor-element-f21ebb5 > .elementor-background-overlay{background-color:transparent;background-image:linear-gradient(0deg, #000000 0%, #0707070F 100%);opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-30 .elementor-element.elementor-element-f21ebb5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-30 .elementor-element.elementor-element-3a5a621 > .elementor-element-populated{margin:0px 0px 70px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-30 .elementor-element.elementor-element-1e5047a .elementor-heading-title{color:#FFFFFF;font-family:"Nexa", Sans-serif;font-size:36px;font-weight:700;line-height:42px;}.elementor-30 .elementor-element.elementor-element-5912c4f{color:#FFFFFF;font-family:"Ubuntu", Sans-serif;font-size:17px;font-weight:300;line-height:25px;}.elementor-30 .elementor-element.elementor-element-0c113b9 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-30 .elementor-element.elementor-element-a2678c6 .elementor-button{font-family:"Nexa Bold", Sans-serif;font-size:18px;font-weight:bold;fill:#000000;color:#000000;background-color:#E8C83F;border-radius:0px 0px 0px 0px;padding:12px 40px 12px 40px;}.elementor-30 .elementor-element.elementor-element-a2678c6 .elementor-button:hover, .elementor-30 .elementor-element.elementor-element-a2678c6 .elementor-button:focus{color:#FFFFFF;background-color:#0075BD;border-color:#0075BD;}.elementor-30 .elementor-element.elementor-element-a2678c6 .elementor-button:hover svg, .elementor-30 .elementor-element.elementor-element-a2678c6 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-30 .elementor-element.elementor-element-a474ca1 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-30 .elementor-element.elementor-element-58d4d4b .elementor-button{font-family:"Nexa Bold", Sans-serif;font-size:18px;font-weight:bold;fill:#FFFFFF;color:#FFFFFF;background-color:#0075BD;border-radius:0px 0px 0px 0px;padding:12px 40px 12px 40px;}.elementor-30 .elementor-element.elementor-element-58d4d4b .elementor-button:hover, .elementor-30 .elementor-element.elementor-element-58d4d4b .elementor-button:focus{color:#000000;background-color:#E8C83F;border-color:#E8C83F;}.elementor-30 .elementor-element.elementor-element-58d4d4b .elementor-button:hover svg, .elementor-30 .elementor-element.elementor-element-58d4d4b .elementor-button:focus svg{fill:#000000;}@media(min-width:768px){.elementor-30 .elementor-element.elementor-element-3a5a621{width:47.398%;}.elementor-30 .elementor-element.elementor-element-0c113b9{width:30.555%;}.elementor-30 .elementor-element.elementor-element-a474ca1{width:69.445%;}.elementor-30 .elementor-element.elementor-element-bc28ba8{width:52.602%;}}@media(max-width:767px){.elementor-30 .elementor-element.elementor-element-f21ebb5 > .elementor-container{min-height:470px;}.elementor-30 .elementor-element.elementor-element-3a5a621 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-30 .elementor-element.elementor-element-1e5047a{text-align:center;}.elementor-30 .elementor-element.elementor-element-1e5047a .elementor-heading-title{font-size:20px;line-height:30px;}.elementor-30 .elementor-element.elementor-element-5912c4f{text-align:center;}.elementor-30 .elementor-element.elementor-element-0c113b9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-30 .elementor-element.elementor-element-a2678c6 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for heading, class: .elementor-element-1e5047a */@media only screen and (min-width: 800px){
+.dash:before{
+    content: '';
+    background: #e8c83f;
+    height: 2px;
+    width: 45px;
+    position: absolute;
+    left: -50px;
+    top: 20px;
+}
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-a2678c6 */@media only screen and (max-width: 800px){
+    .elementor-30 .elementor-element.elementor-element-a2678c6{
+        margin-bottom: 20px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-0c113b9 */@media only screen and (max-width: 800px){
+    .elementor-30 .elementor-element.elementor-element-0c113b9{
+        width: 100% !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-a474ca1 */@media only screen and (max-width: 800px){
+    .elementor-30 .elementor-element.elementor-element-a474ca1{
+        width: 100% !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-3a5a621 */@media only screen and (max-width: 800px){
+    .elementor-30 .elementor-element.elementor-element-3a5a621{
+        width: 100% !important;
+        
+    }
+    .elementor-30 .elementor-element.elementor-element-3a5a621 .elementor-widget-wrap{
+        margin-bottom: 0px !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-bc28ba8 */@media only screen and (max-width: 800px){
+    .elementor-30 .elementor-element.elementor-element-bc28ba8{
+        width: 100% !important;
+    }
+}/* End custom CSS */
